@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    int ary[10]={1,1,1,1,1,1,1,1,1}, i=0;
+    int ary[10]={1,1,1,1,1,1,1,1,1,1}, i=0;
     double avg=0;
     while ((ary[i]!=0) and (i<9))
     {
